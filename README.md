@@ -5,6 +5,9 @@ Collaborators:
 ## Dataset
 The image dataset can be obtained from this link: http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
+## Good Detection Result ( IOU >= 0.5)
+Refer to ```detection_result.html```
+
 ## Please download the pretrained structure forest model before you start
 
 **Pretrained structured forest model download link: https://cdn.rawgit.com/opencv/opencv_extra/3.3.0/testdata/cv/ximgproc/model.yml.gz**
