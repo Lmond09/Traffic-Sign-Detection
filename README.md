@@ -1,4 +1,8 @@
 # Traffic-Sign-Detection
+Collaborater: 
+```Khor Jia Feng``` ```Nga Ke Jie``` ```Tan Xin Sheng```
+
+# Dataset
 The image dataset can be obtained from this link: http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
 ## How to run the `tsd.py`
