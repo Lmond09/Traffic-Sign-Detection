@@ -1,5 +1,5 @@
 # Traffic-Sign-Detection
-Collaborater: 
+Collaborators: 
 ```Khor Jia Feng``` ```Nga Ke Jie``` ```Tan Xin Sheng```
 
 # Dataset
