@@ -6,7 +6,7 @@ Collaborators:
 The image dataset can be obtained from this link: http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
 ## Good Detection Result ( IOU >= 0.5)
-Refer to ```detection_result.html```
+Refer to ```detection_results.zip```
 
 ## Please download the pretrained structure forest model before you start
 
