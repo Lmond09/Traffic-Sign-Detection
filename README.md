@@ -12,3 +12,6 @@ python tsd.py --fn image_path
 - Replace the `image_path` above with the actual image path
 
 - Make sure you download all the file and the test images are located in the working directory
+
+- **Pretrained structured forest model download link: https://cdn.rawgit.com/opencv/opencv_extra/3.3.0/testdata/cv/ximgproc/model.yml.gz**
+  
